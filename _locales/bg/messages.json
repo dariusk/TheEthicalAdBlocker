@@ -39,7 +39,7 @@
     "message": "<strong>Забранено</strong> за сайта"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Adblock Plus в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
+    "message": "The Ethical Ad Blocker е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на The Ethical Ad Blocker в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
   },
   "easy_create_filter": {
     "message": "Блокирай елемента"
@@ -57,10 +57,10 @@
     "message": "Списък с филтри"
   },
   "filter_must_follow_syntax": {
-    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Adblock Plus</a>."
+    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Открихте грешка? Искате да преведете Adblock Plus на вашия език? Моля, <a>попълнете тази заявка</a>."
+    "message": "Открихте грешка? Искате да преведете The Ethical Ad Blocker на вашия език? Моля, <a>попълнете тази заявка</a>."
   },
   "general": {
     "message": "Общи"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Версия за разработчици на Adblock Plus"
+    "message": "Версия за разработчици на The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Натиснете „ДА“ за отваряне на всички препратки от това уведомяване."
@@ -110,7 +110,7 @@
     "message": "Щракнете по уведомяване за отваряне на съдържащите се препратки."
   },
   "options": {
-    "message": "Настройки на Adblock Plus"
+    "message": "Настройки на The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Настройки"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Изтегли Adblock Plus"
+    "message": "Изтегли The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "С Adblock Plus блокирах $number$ реклами и проследявания.",
+    "message": "С The Ethical Ad Blocker блокирах $number$ реклами и проследявания.",
     "placeholders": {
       "number": {
         "content": "$1"

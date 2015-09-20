@@ -32,7 +32,7 @@
   },
   "description_chrome": {
     "description": "Note: this cannot be longer than 132 characters",
-    "message": "Used by over 50 million people, a free ad blocker for Chrome that blocks ALL annoying ads, malware and tracking."
+    "message": "The most ethical way to block all ads."
   },
   "description_opera": {
     "message": "Used by over 50 million people, a free ad blocker for Opera that blocks ALL annoying ads, malware and tracking."
@@ -46,7 +46,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is disabled for the domains listed below. You can add a domain either via the Adblock Plus icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "The Ethical Ad Blocker is disabled for the domains listed below. You can add a domain either via the The Ethical Ad Blocker icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "description": "Action in popup UI to add a filter which blocks an element selected from the current page",
@@ -67,10 +67,10 @@
     "message": "Filter lists"
   },
   "filter_must_follow_syntax": {
-    "message": "Your filter must follow the <a>Adblock Plus filter syntax</a>."
+    "message": "Your filter must follow the <a>The Ethical Ad Blocker filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Adblock Plus into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate The Ethical Ad Blocker into your language? Please <a>file a request here</a>."
   },
   "general": {
     "description": "This is a tab heading.",
@@ -99,7 +99,7 @@
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds. Note: this cannot be longer than 45 characters.",
-    "message": "Adblock Plus development build"
+    "message": "The Ethical Ad Blocker development build"
   },
   "notification_with_buttons": {
     "message": "Click 'OK' to open all links in this notification."
@@ -108,7 +108,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Adblock Plus Options"
+    "message": "The Ethical Ad Blocker Options"
   },
   "options_short": {
     "description": "Link to the options page from the popup balloon.",
@@ -153,11 +153,11 @@
   },
   "stats_share_download": {
     "description": "Label for link to adblockplus.org that is attached when the user wants to share the stats on Facebook.",
-    "message": "Download Adblock Plus"
+    "message": "Download The Ethical Ad Blocker"
   },
   "stats_share_message": {
     "description": "This message will be posted to social networks if the user decides to share the stats.",
-    "message": "I blocked $number$ ads and trackers thanks to Adblock Plus.",
+    "message": "I blocked $number$ ads and trackers thanks to The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"
@@ -187,7 +187,7 @@
     "message": "Whitelisted domains"
   },
   "unexpected_filter_list_header": {
-    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Adblock Plus 2.0]\") which are only allowed in filter lists",
+    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[The Ethical Ad Blocker 2.0]\") which are only allowed in filter lists",
     "message": "Filter list headers aren't allowed here"
   },
   "invalid_css_selector": {

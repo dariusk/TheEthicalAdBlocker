@@ -39,7 +39,7 @@
     "message": "<strong>Desativado</strong> neste site"
   },
   "disabled_for_these_domains": {
-    "message": "O Adblock Plus está desativado nos domínios abaixo listados. Pode adicionar um domínio através do ícone do Adblock Plus na barra de endereço ou digitando o domínio (não um URL) na caixa e clicando no botão \"Adicionar domínio\"."
+    "message": "O The Ethical Ad Blocker está desativado nos domínios abaixo listados. Pode adicionar um domínio através do ícone do The Ethical Ad Blocker na barra de endereço ou digitando o domínio (não um URL) na caixa e clicando no botão \"Adicionar domínio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear elemento"
@@ -57,10 +57,10 @@
     "message": "Lista de filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "O filtro deve seguir a <a>sintaxe do filtro Adblock Plus</a>."
+    "message": "O filtro deve seguir a <a>sintaxe do filtro The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Encontrou um erro? Quer traduzir o Adblock Plus para o seu idioma? Por favor, submeta <a>aqui</a> o seu pedido."
+    "message": "Encontrou um erro? Quer traduzir o The Ethical Ad Blocker para o seu idioma? Por favor, submeta <a>aqui</a> o seu pedido."
   },
   "general": {
     "message": "Geral"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versão de desenvolvimento do Adblock Plus"
+    "message": "Versão de desenvolvimento do The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Clique em 'CONFIRMAR' para abrir todos os links nesta notificação."
@@ -110,7 +110,7 @@
     "message": "Clique na notificação para abrir todos os links nele."
   },
   "options": {
-    "message": "Opções do Adblock Plus"
+    "message": "Opções do The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Opções"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Transferir o Adblock Plus"
+    "message": "Transferir o The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Eu bloqueei $number$ anúncios e rastreamentos graças ao Adblock Plus.",
+    "message": "Eu bloqueei $number$ anúncios e rastreamentos graças ao The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

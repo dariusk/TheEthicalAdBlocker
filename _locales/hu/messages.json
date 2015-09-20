@@ -39,7 +39,7 @@
     "message": "<strong>Kikapcsolva</strong> ezen a weboldalon"
   },
   "disabled_for_these_domains": {
-    "message": "Az Adblock Plus le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az Adblock Plus ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
+    "message": "Az The Ethical Ad Blocker le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az The Ethical Ad Blocker ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
   },
   "easy_create_filter": {
     "message": "Elem blokkolása"
@@ -57,10 +57,10 @@
     "message": "Szűrő lista"
   },
   "filter_must_follow_syntax": {
-    "message": "A szűrőd kövesse az <a>Adblock Plus szintaxisát</a>."
+    "message": "A szűrőd kövesse az <a>The Ethical Ad Blocker szintaxisát</a>."
   },
   "found_a_bug": {
-    "message": "Találtál egy hibát az Adblock Plus-ban? Kérlek <a>jelentsd itt</a>."
+    "message": "Találtál egy hibát az The Ethical Ad Blocker-ban? Kérlek <a>jelentsd itt</a>."
   },
   "general": {
     "message": "Általános"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus fejlesztői változat"
+    "message": "The Ethical Ad Blocker fejlesztői változat"
   },
   "notification_with_buttons": {
     "message": "Kattints az OK gombra az értesítésben lévő összes link megnyitásához."
@@ -110,7 +110,7 @@
     "message": "Kattints az értesítésre a benne lévő összes link megnyitásához."
   },
   "options": {
-    "message": "Adblock Plus beállítások"
+    "message": "The Ethical Ad Blocker beállítások"
   },
   "options_short": {
     "message": "Beállítások"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus letöltése"
+    "message": "The Ethical Ad Blocker letöltése"
   },
   "stats_share_message": {
-    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az Adblock Plusnak köszönhetően.",
+    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az The Ethical Ad Blockernak köszönhetően.",
     "placeholders": {
       "number": {
         "content": "$1"

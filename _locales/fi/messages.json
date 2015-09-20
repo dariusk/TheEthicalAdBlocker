@@ -39,7 +39,7 @@
     "message": "<strong>Poistettu</strong> tältä sivulta"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko Adblock Plus kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
+    "message": "The Ethical Ad Blocker ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko The Ethical Ad Blocker kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
   },
   "easy_create_filter": {
     "message": "Estä elementti"
@@ -57,10 +57,10 @@
     "message": "Suodatinlistat"
   },
   "filter_must_follow_syntax": {
-    "message": "Suodattimesi on noudatettava <a>Adblock Plus suodattimen syntaksia</a>."
+    "message": "Suodattimesi on noudatettava <a>The Ethical Ad Blocker suodattimen syntaksia</a>."
   },
   "found_a_bug": {
-    "message": "Löysitkö vian? Haluatko kääntää Adblock Plusin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
+    "message": "Löysitkö vian? Haluatko kääntää The Ethical Ad Blockerin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
   },
   "general": {
     "message": "Yleiset"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus kehittäjän versio"
+    "message": "The Ethical Ad Blocker kehittäjän versio"
   },
   "notification_with_buttons": {
     "message": "Valitse 'OK' aukaeksesi kaikki linkit tässä ilmoituksessa."
@@ -110,7 +110,7 @@
     "message": "Napsauttamalla ilmoitusta voit avata kaikki linkit siitä."
   },
   "options": {
-    "message": "Adblock Plus asetukset"
+    "message": "The Ethical Ad Blocker asetukset"
   },
   "options_short": {
     "message": "Asetukset"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lataa Adblock Plus"
+    "message": "Lataa The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Estin $number$ mainosta ja trackeriä kiitos Adblock Plus;an.",
+    "message": "Estin $number$ mainosta ja trackeriä kiitos The Ethical Ad Blocker;an.",
     "placeholders": {
       "number": {
         "content": "$1"

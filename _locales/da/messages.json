@@ -39,7 +39,7 @@
     "message": "<strong>Deaktiveret</strong> på dette websted"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet Adblock Plus i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
+    "message": "The Ethical Ad Blocker er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet The Ethical Ad Blocker i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
   },
   "easy_create_filter": {
     "message": "Blokér element"
@@ -57,10 +57,10 @@
     "message": "Filterlister"
   },
   "filter_must_follow_syntax": {
-    "message": "Dit filter skal følge <a>Adblock Plus' filtersyntaks</a>."
+    "message": "Dit filter skal følge <a>The Ethical Ad Blocker' filtersyntaks</a>."
   },
   "found_a_bug": {
-    "message": "Har du fundet en fejl? Vil du oversætte Adblock Plus til dit sprog? Send <a>venligst din anmodning her</a>."
+    "message": "Har du fundet en fejl? Vil du oversætte The Ethical Ad Blocker til dit sprog? Send <a>venligst din anmodning her</a>."
   },
   "general": {
     "message": "Generelt"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus-udviklingsversion"
+    "message": "The Ethical Ad Blocker-udviklingsversion"
   },
   "notification_with_buttons": {
     "message": "Klik på 'OK' for åbne alle genveje i denne meddelelse."
@@ -110,7 +110,7 @@
     "message": "Klik på meddelelsen for at åbne alle genveje i den."
   },
   "options": {
-    "message": "Adblock Plus indstillinger"
+    "message": "The Ethical Ad Blocker indstillinger"
   },
   "options_short": {
     "message": "Indstillinger"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblock Plus"
+    "message": "Download The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være Adblock Plus.",
+    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

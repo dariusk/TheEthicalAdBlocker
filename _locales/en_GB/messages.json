@@ -39,7 +39,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is disabled for the domains listed below. You can add a domain either via the Adblock Plus icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "The Ethical Ad Blocker is disabled for the domains listed below. You can add a domain either via the The Ethical Ad Blocker icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Block element"
@@ -57,10 +57,10 @@
     "message": "Filter lists"
   },
   "filter_must_follow_syntax": {
-    "message": "Your filter must follow the <a>Adblock Plus filter syntax</a>."
+    "message": "Your filter must follow the <a>The Ethical Ad Blocker filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Adblock Plus into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate The Ethical Ad Blocker into your language? Please <a>file a request here</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus development build"
+    "message": "The Ethical Ad Blocker development build"
   },
   "notification_with_buttons": {
     "message": "Click 'OK' to open all links in this notification."
@@ -110,7 +110,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Adblock Plus Options"
+    "message": "The Ethical Ad Blocker Options"
   },
   "options_short": {
     "message": "Options"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblock Plus"
+    "message": "Download The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "I blocked $number$ ads and trackers thanks to Adblock Plus.",
+    "message": "I blocked $number$ ads and trackers thanks to The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

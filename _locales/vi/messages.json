@@ -39,7 +39,7 @@
     "message": "<strong>Đã loại bỏ</strong> trên trang này"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng Adblock Plus nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
+    "message": "The Ethical Ad Blocker không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng The Ethical Ad Blocker nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
   },
   "easy_create_filter": {
     "message": "Chặn phần từ"
@@ -57,10 +57,10 @@
     "message": "Danh sách các bộ lọc"
   },
   "filter_must_follow_syntax": {
-    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của Adblock Plusx</a>."
+    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của The Ethical Ad Blockerx</a>."
   },
   "found_a_bug": {
-    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch Adblock Plus sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
+    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch The Ethical Ad Blocker sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
   },
   "general": {
     "message": "Tổng quan"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus bản phát triển"
+    "message": "The Ethical Ad Blocker bản phát triển"
   },
   "notification_with_buttons": {
     "message": "Nhấn 'OK' để mở tất cả liên kết trong thông báo này."
@@ -110,7 +110,7 @@
     "message": "Nhấn vào thông báo để mở tất cả liên kết trong nó."
   },
   "options": {
-    "message": "Tuỳ chỉnh Adblock Plus"
+    "message": "Tuỳ chỉnh The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Tùy chỉnh"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Tải Adblock Plus"
+    "message": "Tải The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Tôi đã chặn $number$ quảng cáo và những bộ theo dõi nhờ có Adblock Plus.",
+    "message": "Tôi đã chặn $number$ quảng cáo và những bộ theo dõi nhờ có The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

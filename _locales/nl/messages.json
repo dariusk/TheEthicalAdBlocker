@@ -39,7 +39,7 @@
     "message": "<strong>Uitgeschakeld</strong> op deze site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Adblock Plus logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
+    "message": "The Ethical Ad Blocker is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het The Ethical Ad Blocker logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
   },
   "easy_create_filter": {
     "message": "Element blokkeren"
@@ -57,10 +57,10 @@
     "message": "Filterlijsten"
   },
   "filter_must_follow_syntax": {
-    "message": "Je filter moet de <a>Adblock Plus filter syntax</a> volgen."
+    "message": "Je filter moet de <a>The Ethical Ad Blocker filter syntax</a> volgen."
   },
   "found_a_bug": {
-    "message": "Heb je een bug gevonden? Wil je helpen Adblock Plus te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
+    "message": "Heb je een bug gevonden? Wil je helpen The Ethical Ad Blocker te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
   },
   "general": {
     "message": "Algemeen"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus experimentele versie"
+    "message": "The Ethical Ad Blocker experimentele versie"
   },
   "notification_with_buttons": {
     "message": "Klik 'OK' om alle links in het bericht te openen"
@@ -110,7 +110,7 @@
     "message": "Klik op de melding om alle links erin te openen."
   },
   "options": {
-    "message": "Adblock Plus opties"
+    "message": "The Ethical Ad Blocker opties"
   },
   "options_short": {
     "message": "Opties"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus downloaden"
+    "message": "The Ethical Ad Blocker downloaden"
   },
   "stats_share_message": {
-    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Adblock Plus.",
+    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

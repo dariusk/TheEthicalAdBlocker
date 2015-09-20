@@ -39,7 +39,7 @@
     "message": "<strong>Deshabilitado</strong> en este sitio"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de Adblock Plus en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
+    "message": "The Ethical Ad Blocker está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de The Ethical Ad Blocker en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear Elemento"
@@ -57,10 +57,10 @@
     "message": "Listas de filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "El filtro debe seguir la <a>Sintaxis de filtros de Adblock Plus</a>."
+    "message": "El filtro debe seguir la <a>Sintaxis de filtros de The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "¿Encontraste un error? ¿Quieres traducir Adblock Plus en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
+    "message": "¿Encontraste un error? ¿Quieres traducir The Ethical Ad Blocker en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versión de desarrollo de Adblock Plus"
+    "message": "Versión de desarrollo de The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Haz click en 'OK' para abrir todos los enlaces en esta notificación."
@@ -110,7 +110,7 @@
     "message": "Haz click en la notificación para abrir todos los enlaces en él."
   },
   "options": {
-    "message": "Opciones de Adblock Plus"
+    "message": "Opciones de The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Opciones"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarga Adblock Plus"
+    "message": "Descarga The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Adblock Plus.",
+    "message": "He bloqueado $number$ anuncios y rastreadores gracias a The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

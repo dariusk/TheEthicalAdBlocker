@@ -39,7 +39,7 @@
     "message": "<strong>Онемогући</strong> на овом сајту"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus не важи за домене у доњем списку. Домен можете да додате помоћу иконе Adblock Plus у адресној траци или уписивањем домена (не URL адресе) у поље испод и кликом на дугме „Додај домен“."
+    "message": "The Ethical Ad Blocker не важи за домене у доњем списку. Домен можете да додате помоћу иконе The Ethical Ad Blocker у адресној траци или уписивањем домена (не URL адресе) у поље испод и кликом на дугме „Додај домен“."
   },
   "easy_create_filter": {
     "message": "Блокирај елемент"
@@ -57,10 +57,10 @@
     "message": "Спискови филтера"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Adblock Plus-а</a>."
+    "message": "Ваш филтер мора да следи <a>синтаксу за филтере The Ethical Ad Blocker-а</a>."
   },
   "found_a_bug": {
-    "message": "Пронашли сте грешку или желите да преведете Adblock Plus на свој језик? <a>Овде поднесите захтев</a>."
+    "message": "Пронашли сте грешку или желите да преведете The Ethical Ad Blocker на свој језик? <a>Овде поднесите захтев</a>."
   },
   "general": {
     "message": "Опште"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Развојна верзија Adblock Plus-а"
+    "message": "Развојна верзија The Ethical Ad Blocker-а"
   },
   "notification_with_buttons": {
     "message": "Кликните на „У реду“ да бисте отворили све везе у овом обавештењу."
@@ -110,7 +110,7 @@
     "message": "Кликните на обавештење да бисте отворили све везе у њему."
   },
   "options": {
-    "message": "Опције Adblock Plus-а"
+    "message": "Опције The Ethical Ad Blocker-а"
   },
   "options_short": {
     "message": "Опције"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Преузми Adblock Plus"
+    "message": "Преузми The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Adblock Plus-у.",
+    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући The Ethical Ad Blocker-у.",
     "placeholders": {
       "number": {
         "content": "$1"

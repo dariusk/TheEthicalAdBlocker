@@ -39,7 +39,7 @@
     "message": "<strong>מנוטרל</strong> באתר זה"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Adblock Plus שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
+    "message": "The Ethical Ad Blocker מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של The Ethical Ad Blocker שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
   },
   "easy_create_filter": {
     "message": "חסימת אלמנט"
@@ -57,10 +57,10 @@
     "message": "רשימות המסננים"
   },
   "filter_must_follow_syntax": {
-    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Adblock Plus</a>."
+    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "מצאת באג? ברצונך לתרגם את Adblock Plus לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
+    "message": "מצאת באג? ברצונך לתרגם את The Ethical Ad Blocker לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
   },
   "general": {
     "message": "כללי"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "גרסאות פיתוח Adblock Plus"
+    "message": "גרסאות פיתוח The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "לחיצה על 'אישור' לפתיחת כל הקישורים בהתראה זו."
@@ -110,7 +110,7 @@
     "message": "לחיצה על התראה לפתיחת כל הקישורים שבתוכה."
   },
   "options": {
-    "message": "אפשרויות Adblock Plus"
+    "message": "אפשרויות The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "אפשרויות"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "הורדת Adblock Plus"
+    "message": "הורדת The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Adblock Plus.",
+    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

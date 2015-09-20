@@ -30,7 +30,7 @@
     "message": "இந்த தளத்தில் <strong> முடக்கப்பட்டுள்ளது</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "கீழே பட்டியலிடப்பட்டுள்ள களங்களுக்கு Adblock Plus முடக்கப்பட்டுள்ளது. களம் ஒன்றை சேர்க்க: முகவரிப் பட்டியில் உள்ள Adblock Plus படவுரு வழியாகவோ அல்லது பெட்டியில் களத்தை (URL அல்ல) தட்டச்சு செய்து   \"களத்தை சேர்\" பொத்தானை சொடுக்குவது மூலமாகவோ நீங்கள் சேர்க்கலாம்."
+    "message": "கீழே பட்டியலிடப்பட்டுள்ள களங்களுக்கு The Ethical Ad Blocker முடக்கப்பட்டுள்ளது. களம் ஒன்றை சேர்க்க: முகவரிப் பட்டியில் உள்ள The Ethical Ad Blocker படவுரு வழியாகவோ அல்லது பெட்டியில் களத்தை (URL அல்ல) தட்டச்சு செய்து   \"களத்தை சேர்\" பொத்தானை சொடுக்குவது மூலமாகவோ நீங்கள் சேர்க்கலாம்."
   },
   "easy_create_filter": {
     "message": "உறுப்பை தடு"
@@ -48,10 +48,10 @@
     "message": "வடிகட்டி பட்டியல்கள்"
   },
   "filter_must_follow_syntax": {
-    "message": "உங்கள் Adblock Plus வடிகட்டி பின்வரும் இலக்கணத்தை பயன்படுத்தவேண்டும்: <a> </a>."
+    "message": "உங்கள் The Ethical Ad Blocker வடிகட்டி பின்வரும் இலக்கணத்தை பயன்படுத்தவேண்டும்: <a> </a>."
   },
   "found_a_bug": {
-    "message": "ஏதேனும் பிழையா? உங்கள் மொழிக்கு Adblock Plus மொழிபெயர்க்கபட வேண்டுமா? தயவுசெய்து கோரிக்கையை <a> இங்கே பதிக்கவும் </a>."
+    "message": "ஏதேனும் பிழையா? உங்கள் மொழிக்கு The Ethical Ad Blocker மொழிபெயர்க்கபட வேண்டுமா? தயவுசெய்து கோரிக்கையை <a> இங்கே பதிக்கவும் </a>."
   },
   "general": {
     "message": "பொது"
@@ -76,7 +76,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus வளர்ச்சி கட்டமை"
+    "message": "The Ethical Ad Blocker வளர்ச்சி கட்டமை"
   },
   "notification_with_buttons": {
     "message": "இந்த அறிவிப்பில் உள்ள எல்லா இணைப்புகளையும் திறக்க, 'சரி'யை சொடுக்கவும்."
@@ -85,7 +85,7 @@
     "message": "இதில் உள்ள எல்லா இணைப்புகளையும் திறக்க \"அறிவிப்பை\" சொடுக்கவும்."
   },
   "options": {
-    "message": "Adblock Plus விருப்பங்கள்"
+    "message": "The Ethical Ad Blocker விருப்பங்கள்"
   },
   "options_short": {
     "message": "விருப்பத்தேர்வுகள்"
@@ -124,10 +124,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plusஐ பதிவிறக்கவும்"
+    "message": "The Ethical Ad Blockerஐ பதிவிறக்கவும்"
   },
   "stats_share_message": {
-    "message": "நான் $number$ விளம்பரங்கள் மற்றும் trackerகளை தடுதுள்ளேன். நன்றி Adblock Plus.",
+    "message": "நான் $number$ விளம்பரங்கள் மற்றும் trackerகளை தடுதுள்ளேன். நன்றி The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "<strong>เปิด</strong>บนเว็บไซต์นี้"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน Adblock Plus ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
+    "message": "The Ethical Ad Blocker ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน The Ethical Ad Blocker ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
   },
   "easy_create_filter": {
     "message": "ปิดกั้นองค์ประกอบ"
@@ -57,10 +57,10 @@
     "message": "รายชื่อตัวกรอง"
   },
   "filter_must_follow_syntax": {
-    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง Adblock Plus</a>"
+    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง The Ethical Ad Blocker</a>"
   },
   "found_a_bug": {
-    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล Adblock Plus เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
+    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล The Ethical Ad Blocker เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
   },
   "general": {
     "message": "ทั่วไป"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus รุ่นกำลังพัฒนา"
+    "message": "The Ethical Ad Blocker รุ่นกำลังพัฒนา"
   },
   "notification_with_buttons": {
     "message": "คลิ๊ก 'ตกลง' เพื่อเปิดลิ้งก์ทั้งหมดในการแจ้งเตือนนี้"
@@ -110,7 +110,7 @@
     "message": "คลิกบนการแจ้งเตือนเพื่อเปิดลิงก์ทั้งหมด"
   },
   "options": {
-    "message": "ตัวเลือกของ Adblock Plus"
+    "message": "ตัวเลือกของ The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "ตัวเลือก"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "ดาวน์โหลด Adblock Plus"
+    "message": "ดาวน์โหลด The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ Adblock Plus",
+    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ The Ethical Ad Blocker",
     "placeholders": {
       "number": {
         "content": "$1"

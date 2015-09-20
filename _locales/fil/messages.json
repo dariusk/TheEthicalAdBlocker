@@ -39,7 +39,7 @@
     "message": "<strong>Hindi Maaari</strong> sa site na ito"
   },
   "disabled_for_these_domains": {
-    "message": "Ang Adblock Plus ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Adblock Plus icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
+    "message": "Ang The Ethical Ad Blocker ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng The Ethical Ad Blocker icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Ihinto ang element"
@@ -57,10 +57,10 @@
     "message": "Listahan ng mga Filter"
   },
   "filter_must_follow_syntax": {
-    "message": "Ang iyong filter ay dapat nakasunod sa <a>Adblock Plus filter syntax</a>."
+    "message": "Ang iyong filter ay dapat nakasunod sa <a>The Ethical Ad Blocker filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Adblock Plus sa inyong wika? <a>ilagay ang inyong request dito</a>."
+    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang The Ethical Ad Blocker sa inyong wika? <a>ilagay ang inyong request dito</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "pagbuo ng Adblock Plus"
+    "message": "pagbuo ng The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Pindutin ang 'OK' para mabuksan ang lahat ng links sa notifikasyon na ito."
@@ -110,7 +110,7 @@
     "message": "Pindutin ang notification para mabuksan ang mga links."
   },
   "options": {
-    "message": "Opsyon sa Adblock Plus"
+    "message": "Opsyon sa The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Mga pagpipilian"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "I - download ang Adblock Plus"
+    "message": "I - download ang The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Adblock Plus.",
+    "message": "Napigilan ko ang $number$ ads at trackers salamat sa The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

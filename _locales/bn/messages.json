@@ -39,7 +39,7 @@
     "message": "এই সাইটে <strong>নিষ্ক্রিয় করা আছে</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য Adblock Plus নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে Adblock Plus আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
+    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য The Ethical Ad Blocker নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে The Ethical Ad Blocker আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
   },
   "easy_create_filter": {
     "message": "উপাদান অবরুদ্ধ করুন"
@@ -57,10 +57,10 @@
     "message": "ফিল্টারের তালিকা"
   },
   "filter_must_follow_syntax": {
-    "message": "আপনার ফিল্টারকে <a>Adblock Plus ফিল্টার সিনট্যাক্স</a> অনুসরণ করা আবশ্যক।"
+    "message": "আপনার ফিল্টারকে <a>The Ethical Ad Blocker ফিল্টার সিনট্যাক্স</a> অনুসরণ করা আবশ্যক।"
   },
   "found_a_bug": {
-    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় Adblock Plus অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
+    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় The Ethical Ad Blocker অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
   },
   "general": {
     "message": "সাধারণ"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus উন্নয়ন গঠন"
+    "message": "The Ethical Ad Blocker উন্নয়ন গঠন"
   },
   "notification_with_buttons": {
     "message": "এই বিজ্ঞপ্তিতে সব লিঙ্ক খোলার জন্য 'ঠিক আছে' ক্লিক করুন।"
@@ -110,7 +110,7 @@
     "message": "এটিতে সকল লিংক খোলার জন্য বিজ্ঞপ্তিতে ক্লিক করুন।"
   },
   "options": {
-    "message": "Adblock Plus অপশনস"
+    "message": "The Ethical Ad Blocker অপশনস"
   },
   "options_short": {
     "message": "অপশনগুলি"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus ডাউনলোড করুন"
+    "message": "The Ethical Ad Blocker ডাউনলোড করুন"
   },
   "stats_share_message": {
-    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারকে অবরুদ্ধ করছি, এ জন্য Adblock Plus কে ধন্যবাদ।",
+    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারকে অবরুদ্ধ করছি, এ জন্য The Ethical Ad Blocker কে ধন্যবাদ।",
     "placeholders": {
       "number": {
         "content": "$1"

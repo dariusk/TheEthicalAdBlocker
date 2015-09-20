@@ -39,7 +39,7 @@
     "message": "<strong>Zakázáno</strong> na této stránce"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony Adblock Plus v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
+    "message": "The Ethical Ad Blocker je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony The Ethical Ad Blocker v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovat prvek"
@@ -57,10 +57,10 @@
     "message": "Seznamy filtrů"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filtr musí odpovídat <a>syntaxi filtru Adblock Plus</a>."
+    "message": "Váš filtr musí odpovídat <a>syntaxi filtru The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Našli jste chybu? Chcete přeložit Adblock Plus do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
+    "message": "Našli jste chybu? Chcete přeložit The Ethical Ad Blocker do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
   },
   "general": {
     "message": "Obecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojové sestavení Adblock Plus"
+    "message": "Vývojové sestavení The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Klepněte na 'OK' pro otevření všech odkazů v tomto oznámení."
@@ -110,7 +110,7 @@
     "message": "Klepněte na oznámení pro otevření všech obsažených odkazů."
   },
   "options": {
-    "message": "Možnosti Adblock Plus"
+    "message": "Možnosti The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Možnosti"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stáhnout Adblock Plus"
+    "message": "Stáhnout The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Zablokoval jsem $number$ reklam a slídilů díky Adblock Plus.",
+    "message": "Zablokoval jsem $number$ reklam a slídilů díky The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

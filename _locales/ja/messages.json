@@ -39,7 +39,7 @@
     "message": "このサイトで<strong>無効</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus を以下のドメインで無効にします。アドレスバーの Adblock Plus アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
+    "message": "The Ethical Ad Blocker を以下のドメインで無効にします。アドレスバーの The Ethical Ad Blocker アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
   },
   "easy_create_filter": {
     "message": "要素をブロック"
@@ -57,10 +57,10 @@
     "message": "フィルタリスト"
   },
   "filter_must_follow_syntax": {
-    "message": "<a>Adblock Plus フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
+    "message": "<a>The Ethical Ad Blocker フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
   },
   "found_a_bug": {
-    "message": "バグを発見? Adblock Plus を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
+    "message": "バグを発見? The Ethical Ad Blocker を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
   },
   "general": {
     "message": "一般"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus 開発版"
+    "message": "The Ethical Ad Blocker 開発版"
   },
   "notification_with_buttons": {
     "message": "この通知のすべてのリンクを開くには [OK] をクリックしてください。"
@@ -110,7 +110,7 @@
     "message": "通知内すべてのリンクを開くにはここをクリックしてください。"
   },
   "options": {
-    "message": "Adblock Plus オプション"
+    "message": "The Ethical Ad Blocker オプション"
   },
   "options_short": {
     "message": "オプション"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus をダウンロード"
+    "message": "The Ethical Ad Blocker をダウンロード"
   },
   "stats_share_message": {
-    "message": "Adblock Plus のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
+    "message": "The Ethical Ad Blocker のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "<strong>غیرفعال باشد</strong> توی این سایت"
   },
   "disabled_for_these_domains": {
-    "message": "این افزونه در سایت های زیر غیرفعاله. برای اضافه کردن یک سایت می توانید روی آیکون Adblock Plus در نوارآدرس کلیک کنید یا دامنه اون سایت (نه آدرس دقیق) را در این جعبه بنویسید و دکمه «اضافه کردن سایت» را بزنید."
+    "message": "این افزونه در سایت های زیر غیرفعاله. برای اضافه کردن یک سایت می توانید روی آیکون The Ethical Ad Blocker در نوارآدرس کلیک کنید یا دامنه اون سایت (نه آدرس دقیق) را در این جعبه بنویسید و دکمه «اضافه کردن سایت» را بزنید."
   },
   "easy_create_filter": {
     "message": "مسدود کردن این عنصر"
@@ -57,10 +57,10 @@
     "message": "لیست فیلتر"
   },
   "filter_must_follow_syntax": {
-    "message": "فیلترهایی که می‌نویسید باید از <a> قواعد فیلترنویسی Adblock Plus</a> پیروی کند."
+    "message": "فیلترهایی که می‌نویسید باید از <a> قواعد فیلترنویسی The Ethical Ad Blocker</a> پیروی کند."
   },
   "found_a_bug": {
-    "message": "باگ پیدا کردید؟ مایلید Adblock Plus را به زبان خودتان ترجمه کنید؟ <a>درخواستتان را اینجا مطرح کنید</a>."
+    "message": "باگ پیدا کردید؟ مایلید The Ethical Ad Blocker را به زبان خودتان ترجمه کنید؟ <a>درخواستتان را اینجا مطرح کنید</a>."
   },
   "general": {
     "message": "صفحه اصلی"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "توسعه ساخت Adblock Plus"
+    "message": "توسعه ساخت The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "برای باز شدن همه لینک های این هشدار ، روی OK کلیک کنید."
@@ -110,7 +110,7 @@
     "message": "برای باز شدن همه لینک های داخلش ، روی هشدار کلیک کنید."
   },
   "options": {
-    "message": "تنظیمات Adblock Plus"
+    "message": "تنظیمات The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "تنظیمات"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "دانلود Adblock Plus"
+    "message": "دانلود The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "به واسطه Adblock Plus من $number$ تبلیغ و ردگیر را مسدود کردم.",
+    "message": "به واسطه The Ethical Ad Blocker من $number$ تبلیغ و ردگیر را مسدود کردم.",
     "placeholders": {
       "number": {
         "content": "$1"

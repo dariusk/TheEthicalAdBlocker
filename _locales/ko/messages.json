@@ -39,7 +39,7 @@
     "message": "이 사이트에서 <strong>을 사용 중지</strong> 합니다."
   },
   "disabled_for_these_domains": {
-    "message": "다음 도메인에서는 광고를 차단하지 않습니다. 주소 표시줄의 Adblock Plus 아이콘 또는 허용 도메인 탭에서 도메인을 입력한 후 \"도메인 추가\" 버튼을 누르십시오."
+    "message": "다음 도메인에서는 광고를 차단하지 않습니다. 주소 표시줄의 The Ethical Ad Blocker 아이콘 또는 허용 도메인 탭에서 도메인을 입력한 후 \"도메인 추가\" 버튼을 누르십시오."
   },
   "easy_create_filter": {
     "message": "요소 숨김"
@@ -57,10 +57,10 @@
     "message": "구독 필터"
   },
   "filter_must_follow_syntax": {
-    "message": "필터는 <a>Adblock Plus 필터 구문</a>을 따라야합니다."
+    "message": "필터는 <a>The Ethical Ad Blocker 필터 구문</a>을 따라야합니다."
   },
   "found_a_bug": {
-    "message": "버그를 발견하셨습니까? Adblock Plus 여러분의 언어로 번역하고 싶습니까? <a>연락하기</a>"
+    "message": "버그를 발견하셨습니까? The Ethical Ad Blocker 여러분의 언어로 번역하고 싶습니까? <a>연락하기</a>"
   },
   "general": {
     "message": "일반"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus 개발 빌드"
+    "message": "The Ethical Ad Blocker 개발 빌드"
   },
   "notification_with_buttons": {
     "message": "이 알림에 포함된 모든 링크를 열려면 '확인'을 클릭하세요."
@@ -110,7 +110,7 @@
     "message": "알림에 포함된 모든 링크를 열려면 클릭하세요."
   },
   "options": {
-    "message": "Adblock Plus 옵션"
+    "message": "The Ethical Ad Blocker 옵션"
   },
   "options_short": {
     "message": "옵션"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "다운로드 Adblock Plus"
+    "message": "다운로드 The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Adblock Plus 덕분에 $number$ 개의 광고와 트래커를 차단했어요.",
+    "message": "The Ethical Ad Blocker 덕분에 $number$ 개의 광고와 트래커를 차단했어요.",
     "placeholders": {
       "number": {
         "content": "$1"

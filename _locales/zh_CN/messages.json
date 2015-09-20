@@ -39,7 +39,7 @@
     "message": "对当前网站<strong>禁用</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus 将不过滤以下域名。您可以通过点击地址栏的 Adblock Plus 图标进行添加，也可在下面输入域名（非URL）然后点击“添加过滤规则”。"
+    "message": "The Ethical Ad Blocker 将不过滤以下域名。您可以通过点击地址栏的 The Ethical Ad Blocker 图标进行添加，也可在下面输入域名（非URL）然后点击“添加过滤规则”。"
   },
   "easy_create_filter": {
     "message": "拦截元素"
@@ -57,10 +57,10 @@
     "message": "过滤规则列表"
   },
   "filter_must_follow_syntax": {
-    "message": "您的过滤规则必须遵循 <a> Adblock Plus 过滤规则语法</a>。"
+    "message": "您的过滤规则必须遵循 <a> The Ethical Ad Blocker 过滤规则语法</a>。"
   },
   "found_a_bug": {
-    "message": "发现漏洞？想要帮忙翻译Adblock Plus？请前往<a>此处询问</a>"
+    "message": "发现漏洞？想要帮忙翻译The Ethical Ad Blocker？请前往<a>此处询问</a>"
   },
   "general": {
     "message": "常规"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus 开发版"
+    "message": "The Ethical Ad Blocker 开发版"
   },
   "notification_with_buttons": {
     "message": "点击“确定”打开此通知中的所有链接。"
@@ -110,7 +110,7 @@
     "message": "点击通知打开它上面的所有链接。"
   },
   "options": {
-    "message": "Adblock Plus 选项"
+    "message": "The Ethical Ad Blocker 选项"
   },
   "options_short": {
     "message": "设置"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "下载 Adblock Plus"
+    "message": "下载 The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "感谢Adblock Plus拦截了$number$个广告和跟踪行为。",
+    "message": "感谢The Ethical Ad Blocker拦截了$number$个广告和跟踪行为。",
     "placeholders": {
       "number": {
         "content": "$1"

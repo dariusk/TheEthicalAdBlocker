@@ -39,7 +39,7 @@
     "message": "<strong>Dezactivat</strong> pe acest site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița Adblock Plus in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
+    "message": "The Ethical Ad Blocker este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița The Ethical Ad Blocker in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
   },
   "easy_create_filter": {
     "message": "Blochează elementul"
@@ -57,10 +57,10 @@
     "message": "Liste de filtre"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtrul tău trebuie să respecte <a> sintaxa Adblock Plus pentru filtre</a>."
+    "message": "Filtrul tău trebuie să respecte <a> sintaxa The Ethical Ad Blocker pentru filtre</a>."
   },
   "found_a_bug": {
-    "message": "Ai gasit o eroare? Dorești să traduci Adblock Plus în limba ta?  <a>scrie o cerere aici</a>."
+    "message": "Ai gasit o eroare? Dorești să traduci The Ethical Ad Blocker în limba ta?  <a>scrie o cerere aici</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versiune de test Adblock Plus"
+    "message": "Versiune de test The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Clic 'OK' pentru a deschide toate link-urile în această notificare."
@@ -110,7 +110,7 @@
     "message": "Clic pe notificare pentru a deschide toate link-urile incluse în ea."
   },
   "options": {
-    "message": "Opţiuni Adblock Plus"
+    "message": "Opţiuni The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Opţiuni"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarcă Adblock Plus"
+    "message": "Descarcă The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Am blocat $number$ reclame si trackere datorita lui Adblock Plus.",
+    "message": "Am blocat $number$ reclame si trackere datorita lui The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

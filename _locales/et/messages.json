@@ -39,7 +39,7 @@
     "message": "<strong>Keelatud</strong> sellel saidil"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus on loetletud domeenidel keelatud. Domeene saate lisada Adblock Plus ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
+    "message": "The Ethical Ad Blocker on loetletud domeenidel keelatud. Domeene saate lisada The Ethical Ad Blocker ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
   },
   "easy_create_filter": {
     "message": "Blokeeri element"
@@ -57,10 +57,10 @@
     "message": "Filtrite nimekirjad"
   },
   "filter_must_follow_syntax": {
-    "message": "Teie filter peab järgima <a>Adblock Plus filtri süntaksit</a>."
+    "message": "Teie filter peab järgima <a>The Ethical Ad Blocker filtri süntaksit</a>."
   },
   "found_a_bug": {
-    "message": "Leidsid vea? Tahad tõlkida Adblock Plus'i enda keelde? <a>Esita veateade</a>."
+    "message": "Leidsid vea? Tahad tõlkida The Ethical Ad Blocker'i enda keelde? <a>Esita veateade</a>."
   },
   "general": {
     "message": "Üldine"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus arendusväljalase"
+    "message": "The Ethical Ad Blocker arendusväljalase"
   },
   "notification_with_buttons": {
     "message": "Kõikide linkide avamiseks klõpsakse 'OK'."
@@ -110,7 +110,7 @@
     "message": "Klõpsake teatel, et avada kõik sisalduvad lingid."
   },
   "options": {
-    "message": "Adblock Plus valikud"
+    "message": "The Ethical Ad Blocker valikud"
   },
   "options_short": {
     "message": "Valikud"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lae Adblock Plus"
+    "message": "Lae The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Olen tänu Adblock Plusile blokeerinud $number$ reklaami ja jälgimisküsist.",
+    "message": "Olen tänu The Ethical Ad Blockerile blokeerinud $number$ reklaami ja jälgimisküsist.",
     "placeholders": {
       "number": {
         "content": "$1"

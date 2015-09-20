@@ -39,7 +39,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Adblock Plus v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "The Ethical Ad Blocker je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu The Ethical Ad Blocker v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -57,10 +57,10 @@
     "message": "Zoznamy filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filter musí spĺňať <a>syntax filtrov Adblock Plus</a>."
+    "message": "Váš filter musí spĺňať <a>syntax filtrov The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Adblock Plus do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť The Ethical Ad Blocker do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojová verzia Adblock Plus"
+    "message": "Vývojová verzia The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Stlačte 'OK' pre otvorenie všetkých odkazov v tomto upozornení."
@@ -110,7 +110,7 @@
     "message": "Kliknite na upozornenie pre otvorenie všetkých odkazov v ňom."
   },
   "options": {
-    "message": "Adblock Plus nastavenia"
+    "message": "The Ethical Ad Blocker nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Adblock Plus"
+    "message": "Stiahnuť The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Adblock Plus.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

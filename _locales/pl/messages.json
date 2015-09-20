@@ -39,7 +39,7 @@
     "message": "<strong>Wyłączony</strong> na tej stronie"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Adblock Plusa znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
+    "message": "The Ethical Ad Blocker jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony The Ethical Ad Blockera znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
   },
   "easy_create_filter": {
     "message": "Blokuj element"
@@ -57,10 +57,10 @@
     "message": "Listy filtrów"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtr musi przestrzegać <a>składni filtra Adblock Plusa</a>."
+    "message": "Filtr musi przestrzegać <a>składni filtra The Ethical Ad Blockera</a>."
   },
   "found_a_bug": {
-    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Adblock Plus na swój język? Zgłoś <a>tutaj</a>."
+    "message": "Znalazłeś błąd? Chcesz przetłumaczyć The Ethical Ad Blocker na swój język? Zgłoś <a>tutaj</a>."
   },
   "general": {
     "message": "Ogólne"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus – wersja rozwojowa"
+    "message": "The Ethical Ad Blocker – wersja rozwojowa"
   },
   "notification_with_buttons": {
     "message": "Naciśnij przycisk „OK”, aby otworzyć wszystkie odnośniki znajdujące się w tym powiadomieniu."
@@ -110,7 +110,7 @@
     "message": "Kliknij powiadomienie, aby otworzyć wszystkie znajdujące się w nim odnośniki."
   },
   "options": {
-    "message": "Adblock Plus – ustawienia"
+    "message": "The Ethical Ad Blocker – ustawienia"
   },
   "options_short": {
     "message": "Opcje"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Pobierz Adblock Plus"
+    "message": "Pobierz The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Dzięki Adblock Plus zablokowano $number$ reklam i tropicieli.",
+    "message": "Dzięki The Ethical Ad Blocker zablokowano $number$ reklam i tropicieli.",
     "placeholders": {
       "number": {
         "content": "$1"

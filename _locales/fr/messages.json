@@ -27,19 +27,19 @@
     "message": "Après avoir fermé ce pop-up, cliquez (ou cliquez-droit) sur un élément de la page."
   },
   "description_chrome": {
-    "message": "Utilisé par plus de 50 millions de personnes, Adblock Plus est gratuit et bloque toutes les publicités, malware et trackers."
+    "message": "Utilisé par plus de 50 millions de personnes, The Ethical Ad Blocker est gratuit et bloque toutes les publicités, malware et trackers."
   },
   "description_opera": {
-    "message": "Utilisé par plus de 50 millions de personnes, Adblock Plus pour Opera est gratuit et bloque TOUTES les publicités intrusives, les logiciels malveillants et les trackers."
+    "message": "Utilisé par plus de 50 millions de personnes, The Ethical Ad Blocker pour Opera est gratuit et bloque TOUTES les publicités intrusives, les logiciels malveillants et les trackers."
   },
   "description_safari": {
-    "message": "Utilisé par plus de 50 millions de personnes, Adblock Plus pour Safari est gratuit et bloque TOUTES les publicités intrusives, les logiciels malveillants et les trackers."
+    "message": "Utilisé par plus de 50 millions de personnes, The Ethical Ad Blocker pour Safari est gratuit et bloque TOUTES les publicités intrusives, les logiciels malveillants et les trackers."
   },
   "disabled_for_site": {
     "message": "<strong>Désactivé</strong> sur ce site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus est désactivé sur les domaines ci-dessous. Vous pouvez ajouter un domaine via l'icône Adblock Plus de la barre d'adresse, ou en tapant le domaine (et non un URL) dans cette boîte de texte et en cliquant sur le bouton \"Ajouter le domaine\"."
+    "message": "The Ethical Ad Blocker est désactivé sur les domaines ci-dessous. Vous pouvez ajouter un domaine via l'icône The Ethical Ad Blocker de la barre d'adresse, ou en tapant le domaine (et non un URL) dans cette boîte de texte et en cliquant sur le bouton \"Ajouter le domaine\"."
   },
   "easy_create_filter": {
     "message": "Bloquer l'élément"
@@ -57,10 +57,10 @@
     "message": "Liste de filtres"
   },
   "filter_must_follow_syntax": {
-    "message": "Votre filtre doit suivre la <a>syntaxe des filtres Adblock Plus</a>."
+    "message": "Votre filtre doit suivre la <a>syntaxe des filtres The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Vous avez trouvé une erreur ? Vous voulez traduire Adblock Plus dans votre langue ? N’hésitez pas à <a>déposer une demande ici</a>."
+    "message": "Vous avez trouvé une erreur ? Vous voulez traduire The Ethical Ad Blocker dans votre langue ? N’hésitez pas à <a>déposer une demande ici</a>."
   },
   "general": {
     "message": "Général"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Version de développement d'Adblock Plus"
+    "message": "Version de développement d'The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Cliquez sur 'OK' pour ouvrir tous les liens dans cette notification."
@@ -110,7 +110,7 @@
     "message": "Cliquez sur la notification pour ouvrir tous les liens qu'elle contient."
   },
   "options": {
-    "message": "Options d'Adblock Plus"
+    "message": "Options d'The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Options"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Télécharger Adblock Plus"
+    "message": "Télécharger The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "J'ai bloqué $number$ publicités et trackers grâce à Adblock Plus.",
+    "message": "J'ai bloqué $number$ publicités et trackers grâce à The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

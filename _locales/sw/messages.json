@@ -39,7 +39,7 @@
     "message": "<strong>walemavu</strong> kwenye tovuti hii"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia Adblock Plus pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
+    "message": "The Ethical Ad Blocker pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia The Ethical Ad Blocker pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
   },
   "easy_create_filter": {
     "message": "kuzuia kipengele"
@@ -57,10 +57,10 @@
     "message": "filter listd"
   },
   "filter_must_follow_syntax": {
-    "message": "Filter yako lazima kufuata <a> Adblock Plus chujio syntax </a> ."
+    "message": "Filter yako lazima kufuata <a> The Ethical Ad Blocker chujio syntax </a> ."
   },
   "found_a_bug": {
-    "message": "Kupatikana mdudu ? Wanataka kutafsiri Adblock Plus katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
+    "message": "Kupatikana mdudu ? Wanataka kutafsiri The Ethical Ad Blocker katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
   },
   "general": {
     "message": "ujumla"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus pamoja na maendeleo ya kujenga"
+    "message": "The Ethical Ad Blocker pamoja na maendeleo ya kujenga"
   },
   "notification_with_buttons": {
     "message": "Bonyeza 'OK' kufungua viungo vyote katika taarifa hii."
@@ -110,7 +110,7 @@
     "message": "Bonyeza kwenye taarifa ya kufungua viungo vyote ndani yake."
   },
   "options": {
-    "message": "Adblock Plus options"
+    "message": "The Ethical Ad Blocker options"
   },
   "options_short": {
     "message": "chaguzi"

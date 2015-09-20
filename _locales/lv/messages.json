@@ -39,7 +39,7 @@
     "message": "<strong>Islegts</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot Adblock Plus, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
+    "message": "The Ethical Ad Blocker Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot The Ethical Ad Blocker, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
   },
   "easy_create_filter": {
     "message": "Bloķēt elementu"
@@ -57,10 +57,10 @@
     "message": "Filtru saraksts"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtram jāatbilst <a>Adblock Plus filtru sintaksei</a>."
+    "message": "Filtram jāatbilst <a>The Ethical Ad Blocker filtru sintaksei</a>."
   },
   "found_a_bug": {
-    "message": "Atradi defektu? Vēlies iztulkot Adblock Plus savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
+    "message": "Atradi defektu? Vēlies iztulkot The Ethical Ad Blocker savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
   },
   "general": {
     "message": "Vispārīgi"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus attīstības programma"
+    "message": "The Ethical Ad Blocker attīstības programma"
   },
   "notification_with_buttons": {
     "message": "Noklikšķiniet \"OK\", lai atvērtu visas saites šajā paziņojumā."
@@ -110,7 +110,7 @@
     "message": "Noklikšķiniet uz paziņojuma, lai atvērtu visas saites tajā."
   },
   "options": {
-    "message": "Adblock Plus Opcijas"
+    "message": "The Ethical Ad Blocker Opcijas"
   },
   "options_short": {
     "message": "Iespējas"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lejuplādēt Adblock Plus"
+    "message": "Lejuplādēt The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies Adblock Plus.",
+    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

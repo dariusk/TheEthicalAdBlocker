@@ -39,7 +39,7 @@
     "message": "<strong>Nonaktifkan</strong> pada situs ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Adblock Plus pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
+    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon The Ethical Ad Blocker pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
   },
   "easy_create_filter": {
     "message": "Blokir elemen"
@@ -57,10 +57,10 @@
     "message": "Daftar penyaring"
   },
   "filter_must_follow_syntax": {
-    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Adblock Plus</a>"
+    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring The Ethical Ad Blocker</a>"
   },
   "found_a_bug": {
-    "message": "Menemukan sebuah celah? Ingin menerjemahkan Adblock Plus ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
+    "message": "Menemukan sebuah celah? Ingin menerjemahkan The Ethical Ad Blocker ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
   },
   "general": {
     "message": "Umum"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Struktur pengembangan Adblock Plus"
+    "message": "Struktur pengembangan The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Klik 'OK' untuk membuka semua link pada pemberitahuan ini."
@@ -110,7 +110,7 @@
     "message": "Klik pada pemberitahuan untuk membuka semua link di dalamnya."
   },
   "options": {
-    "message": "Pengaturan Adblock Plus"
+    "message": "Pengaturan The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Pilihan"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Unduh Adblock Plus"
+    "message": "Unduh The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Saya memblokir $number$ iklan dan pelacak berkat Adblock Plus.",
+    "message": "Saya memblokir $number$ iklan dan pelacak berkat The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

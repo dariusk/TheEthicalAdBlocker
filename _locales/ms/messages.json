@@ -39,7 +39,7 @@
     "message": "<strong>Dinyahaktifkan</strong> pada laman web ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus dinyahaktifkan untuk domain-domain yang disenaraikan di bawah. Anda boleh menambah domain sama ada melalui ikon Adblock Plus di sebelah bar alamat atau dengan menaip domain (bukan URL) di dalam kotak dan klik butang \"Tambah domain\"."
+    "message": "The Ethical Ad Blocker dinyahaktifkan untuk domain-domain yang disenaraikan di bawah. Anda boleh menambah domain sama ada melalui ikon The Ethical Ad Blocker di sebelah bar alamat atau dengan menaip domain (bukan URL) di dalam kotak dan klik butang \"Tambah domain\"."
   },
   "easy_create_filter": {
     "message": "Halang elemen"
@@ -57,10 +57,10 @@
     "message": "Senarai penapis"
   },
   "filter_must_follow_syntax": {
-    "message": "Penapis anda mesti ikut <a>Adblock Plus filter syntax</a>."
+    "message": "Penapis anda mesti ikut <a>The Ethical Ad Blocker filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Menghadapi masalah? Ingin terjemahkan Adblock Plus kepada bahasa anda? Sila <a>failkan permohonan anda di sini</a>."
+    "message": "Menghadapi masalah? Ingin terjemahkan The Ethical Ad Blocker kepada bahasa anda? Sila <a>failkan permohonan anda di sini</a>."
   },
   "general": {
     "message": "Umum"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versi pemaju Adblock Plus"
+    "message": "Versi pemaju The Ethical Ad Blocker"
   },
   "notification_with_buttons": {
     "message": "Klik 'OK' untuk membuka semua pautan dalam notifikasi ini."
@@ -110,7 +110,7 @@
     "message": "Klik pada notifikasi untuk membuka semua pautan yang terkandung dalamnya."
   },
   "options": {
-    "message": "Tetapan Adblock Plus"
+    "message": "Tetapan The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Tetapan"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Muat turun Adblock Plus"
+    "message": "Muat turun The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Saya telah menyekat $number$ iklan dan penjejak dengan berkat Adblock Plus.",
+    "message": "Saya telah menyekat $number$ iklan dan penjejak dengan berkat The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

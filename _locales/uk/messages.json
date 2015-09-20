@@ -39,7 +39,7 @@
     "message": "<strong>Вимкнено</strong> на цьому сайті"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка Adblock Plus у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
+    "message": "The Ethical Ad Blocker відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка The Ethical Ad Blocker у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
   },
   "easy_create_filter": {
     "message": "Заблокувати елемент"
@@ -57,10 +57,10 @@
     "message": "Списки фільтрів"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів Adblock Plus</a>."
+    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів The Ethical Ad Blocker</a>."
   },
   "found_a_bug": {
-    "message": "Виявили помилку? Бажаєте перекласти Adblock Plus своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
+    "message": "Виявили помилку? Бажаєте перекласти The Ethical Ad Blocker своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
   },
   "general": {
     "message": "Загальні"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus (тестова збiрка)"
+    "message": "The Ethical Ad Blocker (тестова збiрка)"
   },
   "notification_with_buttons": {
     "message": "Клацніть «OK», щоб відкрити всі посилання у цьому повідомленні."
@@ -110,7 +110,7 @@
     "message": "Клацніть по повідомленню, щоб відкрити всі посилання в ньому."
   },
   "options": {
-    "message": "Налаштування Adblock Plus"
+    "message": "Налаштування The Ethical Ad Blocker"
   },
   "options_short": {
     "message": "Налаштування"
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Завантажити Adblock Plus"
+    "message": "Завантажити The Ethical Ad Blocker"
   },
   "stats_share_message": {
-    "message": "Я заблокував $number$ оголошень і шпигунів завдяки Adblock Plus.",
+    "message": "Я заблокував $number$ оголошень і шпигунів завдяки The Ethical Ad Blocker.",
     "placeholders": {
       "number": {
         "content": "$1"
