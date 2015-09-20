@@ -13,7 +13,6 @@ permissions = tabs
   storage
   unlimitedStorage
   notifications
-options = options.html
 icons = icons/abp-16.png icons/abp-32.png icons/detailed/abp-48.png
   icons/detailed/abp-64.png icons/detailed/abp-128.png
 webAccessible = block.html
