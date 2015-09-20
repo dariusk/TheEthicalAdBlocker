@@ -145,6 +145,9 @@ function checkCollapse(element)
 
       function(response)
       {
+        // send the "block" message to the extension's background.js script
+        chrome.runtime.sendMessage({name: "block"});
+
         if (response && element.parentNode)
         {
           var property = "display";

@@ -469,6 +469,12 @@
   {
     var sender = {};
 
+    // Read a "block" message and redirect the tab to our block notification page
+    if (message.name === 'block') {
+      var url = chrome.runtime.getURL('message.html');
+      chrome.tabs.update(null, {url: url});
+    }
+
     // Add "page" and "frame" if the message was sent by a content script.
     // If sent by popup or the background page itself, there is no "tab".
     if ("tab" in rawSender)

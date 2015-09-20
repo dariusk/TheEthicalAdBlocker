@@ -21,7 +21,7 @@ webAccessible = block.html
 managedStorageSchema = managed-storage-schema.json
 
 [compat]
-chrome = 28.0
+chrome = 40.0
 
 [mapping]
 icons/abp-19.png = chrome/icons/abp-19.png
