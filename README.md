@@ -1,4 +1,18 @@
-Adblock Plus for Chrome, Opera and Safari
+The Ethical Ad Blocker
+=========================================
+
+This extension provides a 100% guaranteed ethical ad blocking experience. The conundrum at hand: users don't want to see ads, but content providers can't give away content for free. The solution is simple: if a website has ads, the user simply should not be able to see it. This way, the user doesn't experience ads, but they also don't leech free content.
+
+Everybody wins.
+
+Technical Notes
+---------
+
+The Ethical Ad Blocker is a fork of [Adblock Plus for Chrome](https://github.com/adblockplus/adblockpluschrome). This was a quick hack and I'm pretty sure you won't be able to make use of the repo as-is, but the GPL v3 license on Adblock Plus means I have to distribute the source, so, uh, here you go. I'm sorry.
+
+-Darius Kazemi, Sep 22, 2015
+
+The Original Adblock Plus for Chrome Readme:
 =========================================
 
 This repository contains the platform-specific Adblock Plus source code for
